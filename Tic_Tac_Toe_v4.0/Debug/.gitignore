@@ -1,0 +1,12 @@
+*.obj
+*.command.1.tlog
+*.read.1.tlog
+*.write.1.tlog
+/vc100.pdb
+/vc100.idb
+/Tic_Tac_Toe_v4.0.vcxprojResolveAssemblyReference.cache
+/Tic_Tac_Toe_v4.0.log
+/Tic_Tac_Toe_v4.0.lastbuildstate
+/Tic_Tac_Toe_v4.0.exe.intermediate.manifest
+/Tic_Tac_Toe_v4.0.Build.CppClean.log
+*.read.3.tlog

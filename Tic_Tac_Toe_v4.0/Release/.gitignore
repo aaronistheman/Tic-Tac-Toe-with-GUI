@@ -1,0 +1,8 @@
+*.obj
+*.command.1.tlog
+*.read.1.tlog
+*.write.1.tlog
+/vc100.pdb
+/Tic_Tac_Toe_v4.0.log
+/Tic_Tac_Toe_v4.0.lastbuildstate
+*.0.exe.intermediate.manifest
