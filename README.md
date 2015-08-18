@@ -17,12 +17,12 @@ This application's main menu contains two options: one to play, and one to exami
 How to Run
 ----------
 
-Download the project, unzip the folder, open it with Microsoft Visual C++ 2010 Express, and run it (i.e. click "start debugging"). The SFML files have been locally included.
+Download the project, unzip the folder, open Tic_Tac_Toe_v4.0.sln with Microsoft Visual C++ 2010 Express, and run it (i.e. click "start debugging"). The SFML files have been locally included.
 
 Releases
 --------
 
-Check the Releases tab of this repository on GitHub.
+Check the releases tab of this repository on GitHub.
 
 Author
 ------
