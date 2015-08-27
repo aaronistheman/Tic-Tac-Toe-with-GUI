@@ -7,6 +7,9 @@ This is a Tic Tac Toe application that records high scores and was written in C+
 
 While writing this particular application, I experimented with some commenting styles, which explains why some of the comments may seem formatted oddly.
 
+When I wrote this application, I didn't use Git. (However, a few months after I wrote it, I learned to use Git.)
+Thus, I made this repository to store the finished application.
+
 The following YouTube video contains a demonstration: https://www.youtube.com/watch?v=8U3oIlrwUyk.
 
 Features
